@@ -1,0 +1,12 @@
+.button {
+    margin-bottom: 10px;
+}
+
+.footer {
+    margin-top: 10px;
+    text-align: right;
+    font-family: sans-serif, 'Garamond';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 10pt;
+}
